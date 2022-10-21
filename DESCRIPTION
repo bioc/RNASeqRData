@@ -1,7 +1,7 @@
 Package: RNASeqRData
 Type: Package
 Title: RNASeqRData: sample data for RNASeqR software package demonstration
-Version: 1.15.0
+Version: 1.15.1
 Author: Kuan-Hao Chao
 Maintainer: Kuan-Hao Chao <ntueeb05howard@gmail.com>
 biocViews: ExperimentData, Saccharomyces_cerevisiae_Data
@@ -13,3 +13,4 @@ License: Artistic-2.0
 Encoding: UTF-8
 NeedsCompilation: no
 RoxygenNote: 6.1.0
+PackageStatus: Deprecated
